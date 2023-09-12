@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <p>
-  <img src="./images/home.jpg" />
+  <img src="./images/Home.jpg" />
 </p>
 
 
