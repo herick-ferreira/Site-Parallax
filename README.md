@@ -8,8 +8,10 @@
 <p><a href="https://herick-ferreira.github.io/Site-Parallax/" >Link</a></p>
 <br/>
 <br/>
+
 <p>
-  <img src="./images/Home.jpg" />
+  <img src="./images/Home.jpg"/>
 </p>
+
 
 
